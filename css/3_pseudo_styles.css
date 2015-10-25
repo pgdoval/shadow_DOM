@@ -1,0 +1,21 @@
+#textBox {
+    width: 600px;
+    background-color: #a35500;
+    color: white;
+    height: 50px;
+    font-size: 2em;
+}
+
+:-ms-input-placeholder{
+     color: rgb(53, 130, 178);
+     opacity:0.8;
+ }
+::-webkit-input-placeholder{
+     color: rgb(53, 130, 178);
+     opacity:0.8;
+ }
+::-moz-placeholder{
+     color: rgb(53, 130, 178);
+     opacity:0.8;
+ }
+
